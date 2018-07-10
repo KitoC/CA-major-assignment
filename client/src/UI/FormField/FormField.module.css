@@ -1,0 +1,29 @@
+.label {
+    width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 0.8rem; 
+}
+
+.input:-webkit-autofill {
+    
+    -webkit-box-shadow: 0 0 0 30px #ffffff inset;
+    color: white;
+}
+
+.input {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid rgb(40, 112, 153);
+    width: 100%;
+    background: #ffffff;
+    box-sizing: border-box;
+    color: white;
+}
+
+
+.label span {
+    font-style: italic;
+}

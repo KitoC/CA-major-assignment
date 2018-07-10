@@ -1,0 +1,48 @@
+.form {
+    color: #222;
+    padding: 30px;
+    border-radius: 5px; 
+    width: 350px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 100px auto;
+}
+
+.formTitle {
+     padding-bottom: 30px;
+     margin: 0 0;
+     color: #ffffff;
+}
+
+
+.submitBox {
+    display: flex;
+    /* justify-content: space-between; */
+    width: 100%;
+}
+
+.form p span {
+    color: rgba(36, 156, 255, 0.616);
+}
+
+.form p {
+    /* text-decoration: underline; */
+    text-align: center;
+    color: rgb(223, 221, 221);
+    margin-bottom: 0;
+    margin-left: 15px;
+}
+
+.form p:hover {
+    cursor: pointer;
+}
+
+.submitBox {
+    width: 100%;
+}
+
+

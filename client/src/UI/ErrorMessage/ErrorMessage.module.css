@@ -1,0 +1,13 @@
+
+
+.errorMessage {
+    text-align: center;
+    margin: 0;
+}
+
+
+.loginError {
+    composes: errorMessage;
+    color: rgb(240, 70, 70);
+    margin-bottom: 10px;
+}
